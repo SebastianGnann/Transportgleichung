@@ -2,8 +2,6 @@
 
 **Sebastian Gnann**
 
-!!! Achtung: dieses Notebook wird momentan noch entwickelt !!!
-
 Dieses GitHub-Repository enthält das Material für die interaktive Online-Übung zum Thema "Advektions-Dispersions-Gleichung". 
 Die Hauptdatei ist *Transportgleichung.ipynb*, ein sogenanntes Jupyter-Notebook. Die anderen Dateien werden zur Ausführung des Notebooks gebraucht, müssen aber nicht extra aufgerufen werden.
 
