@@ -7,7 +7,7 @@ Die Hauptdatei ist *Transportgleichung.ipynb*, ein sogenanntes Jupyter-Notebook.
 
 Sie können das Jupyter-Notebook unter folgendem Link im Browser laufen lassen: https://mybinder.org/v2/gh/SebastianGnann/Transportgleichung/main?labpath=Transportgleichung.ipynb
 
-**Achtung**: Manchmal scheint es nicht möglich zu sein das Notebook direkt über diesen Link auszuführen, deswegen folgen Sie bitte der folgenden Anleitung (siehe auch Screenshot).
+**Achtung**: Manchmal ist es nicht möglich das Notebook direkt über diesen Link auszuführen. In diesem Fall folgen Sie bitte der folgenden Anleitung.
 Gehen Sie auf https://notebooks.gesis.org/binder/. Kopieren Sie dann den Github Link in das obere Feld (https://github.com/SebastianGnann/Transportgleichung), sowie den Namen des Notebooks in das untere Feld (Transportgleichung.ipynb). Klicken Sie anschließend auf „launch“ um das Notebook zu starten. 
 
 ![image](/store/screenshot_binder_gesis.png)
